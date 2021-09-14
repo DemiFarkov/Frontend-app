@@ -53,10 +53,17 @@ footer{
     background-color: #8854A0;    
 }
 .foot{
-font-size: 14px;
-padding: 30px 0px 0px 28px;
-color: white;
-float: left;
+    font-size: 14px;
+    padding: 30px 0px 0px 28px;
+    float: left;
+    color: white;
+}
+.foot li{
+    float: left; 
+    margin-left: 3px;
+}
+.foot li a{
+    color: white;
 }
 .foot2{
     float: left;
