@@ -60,9 +60,11 @@ footer{
 }
 .foot li{
     float: left; 
-    margin-left: 3px;
+    margin: 3px;
 }
 .foot li a{
+    float: left;
+    font-size: 14px;
     color: white;
 }
 .foot2{
